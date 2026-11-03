@@ -1,4 +1,4 @@
-// script.js
+// visualscript.js
 
 //    - menuIcon: The clickable element (anchor tag)
 //    - mobileNav: The navigation container (nav element)
